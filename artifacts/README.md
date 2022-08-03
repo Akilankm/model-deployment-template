@@ -1,0 +1,1 @@
+The folder contains all the model artifacts which will be used reconstrucing the model
